@@ -2,7 +2,8 @@ Tristin Rohr’s GitHub Profile
 
 Welcome to My GitHub Profile!
 
-Hello! I’m Tristin Rohr, a passionate web development student currently honing my skills in creating innovative and efficient web applications. My journey in web development is driven by a keen interest in coding and a desire to build impactful digital solutions.
+Hi, I’m Tristin Rohr, and I’m transitioning from a career in customer service to web development. With a background in providing exceptional customer support, I bring strong communication skills, problem-solving abilities, and a deep understanding of user experience to my new role. I’m currently developing my skills in HTML, CSS, JavaScript, and modern frameworks, and I’m passionate about creating intuitive and user-friendly web applications. I’m excited to join a dynamic development team where I can continue to grow and contribute my unique perspective.
+
 
 About Me
 
