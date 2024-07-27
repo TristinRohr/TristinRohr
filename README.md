@@ -38,6 +38,6 @@ Get in Touch
 Feel free to reach out to me for collaborations, project discussions, or any web development inquiries. You can connect with me through:
 
 	•	Email: tristist@gmail.com
-	•	LinkedIn: Tristin Rohr
+	•	LinkedIn: www.linkedin.com/in/tristin-rohr-a975a6276
 
 Thank you for visiting my GitHub profile! I’m excited to connect and collaborate with fellow developers and tech enthusiasts.
